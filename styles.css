@@ -1,0 +1,41 @@
+img {
+    height: 200px;
+    width: 35%;
+     
+}
+p {
+  font-size:30px;
+}
+h1 {
+    
+    border:solid;
+}
+.round {
+background:#9b2550;
+}
+.square {
+    background:#4f00e2;
+}
+.triangle {
+    background:#6bd7ff;
+}
+.any {
+    background:#37ba76;
+}
+.green {
+    font-family: 'Kumar One Outline', cursive;
+  
+}
+.land {
+    font-family: 'Pattaya', sans-serif;
+}
+.art {
+    font-family: 'Anton', sans-serif;
+}
+.red {
+    font-family: 'Dancing Script', cursive;
+}
+body {
+    background-image:radial-gradient(blue,green);
+    text-align: center;
+}
